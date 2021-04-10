@@ -1,0 +1,12 @@
+C:\Users\vince\Desktop\Crypto\Near\new-second-awesome-app\contract\target\wasm32-unknown-unknown\debug\deps\sha2-cadac4f2c90133e1.rmeta: C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\vince\Desktop\Crypto\Near\new-second-awesome-app\contract\target\wasm32-unknown-unknown\debug\deps\libsha2-cadac4f2c90133e1.rlib: C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\vince\Desktop\Crypto\Near\new-second-awesome-app\contract\target\wasm32-unknown-unknown\debug\deps\sha2-cadac4f2c90133e1.d: C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\lib.rs:
+C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\consts.rs:
+C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256.rs:
+C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha256_utils.rs:
+C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512.rs:
+C:\Users\vince\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.8.2\src\sha512_utils.rs:

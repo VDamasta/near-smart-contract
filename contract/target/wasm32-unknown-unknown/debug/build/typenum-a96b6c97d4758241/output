@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\vince\Desktop\Crypto\Near\new-second-awesome-app\contract\target\wasm32-unknown-unknown\debug\build\typenum-a96b6c97d4758241\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\vince\Desktop\Crypto\Near\new-second-awesome-app\contract\target\wasm32-unknown-unknown\debug\build\typenum-a96b6c97d4758241\out\op.rs
